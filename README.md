@@ -367,8 +367,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Author**: Sonalika Singh
 - **Email**: singhsonalika5@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
+- **LinkedIn**: [https://www.linkedin.com/in/sonalika-singh-994a151a8/]
+- **GitHub**: [https://github.com/Sonalikasingh17]
 
 ---
 

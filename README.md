@@ -92,7 +92,7 @@ python -m venv ml_exercises_env
 # Activate environment
 # On Windows:
 ml_exercises_env\Scripts\activate
-# On macOS/Linux:
+# On macOS/Linux: 
 source ml_exercises_env/bin/activate
 
 # Install dependencies

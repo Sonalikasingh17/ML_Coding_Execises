@@ -192,7 +192,7 @@ jupyter lab notebooks/
 - Git (for cloning the repository)
 - 4GB+ RAM (for running neural network examples)
 
-### Required Packages
+### Required Packages 
 ```txt
 numpy>=1.21.0
 pandas>=1.3.0

@@ -7,7 +7,7 @@ Implementing ML algorithms from scratch and using scikit-learn effectively.
 1. **Classical ML** 🟡
    - K-means clustering from scratch
    - Logistic regression with regularization
-   - Decision tree implementation
+   - Decision tree implementation 
 
 2. **Ensemble Methods** 🔴
    - Random Forest from scratch

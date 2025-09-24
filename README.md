@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-A comprehensive collection of **50+ coding exercises** specifically designed for machine learning interviews and skill development. Each problem includes detailed solutions, test cases, and explanations to help you master both theoretical concepts and practical implementation skills.
+A comprehensive collection of **50+ coding exercises** specifically designed for machine learning interviews and skill development. Each problem includes detailed solutions, test cases, and explanations to help you master both theoretical concepts and practical implementation skills. 
  
 ## 📖 Table of Contents
    

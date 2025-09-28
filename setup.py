@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name="ML_Coding_Exercises",
     version="1.0.0",
-    description="Comprehensive ML coding exercises for interview preparation",
+    description="Comprehensive ML coding exercises for interview preparation", 
     author="Sonalika Singh",
     author_email="singhsonalika5@gmail.com",
     packages=find_packages(),

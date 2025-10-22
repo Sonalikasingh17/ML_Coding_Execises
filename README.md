@@ -77,7 +77,7 @@ ml-coding-exercises/
 ```
 
 ## 🚀 Quick Start
-
+ 
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/your-username/ml-coding-exercises.git
@@ -128,7 +128,7 @@ jupyter lab notebooks/
 2. **Explain your approach** - Practice verbalizing your thought process
 3. **Focus on edge cases** - Consider boundary conditions
 4. **Optimize solutions** - Think about time/space complexity improvements
-5. **Review regularly** - Revisit problems you found challenging
+5. **Review regularly** - Revisit problems you found challenging 
 
 ### 🔬 For Skill Development
 1. **Implement variations** - Modify problems to test different scenarios
@@ -183,7 +183,7 @@ jupyter lab notebooks/
 - LeetCode-style problems for ML
 - Dynamic programming for optimization
 - Graph algorithms for neural networks
-- String processing for NLP
+- String processing for NLP 
 
 ## ⚙️ Setup Instructions
 

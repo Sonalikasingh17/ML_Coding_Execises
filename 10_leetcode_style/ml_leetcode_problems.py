@@ -5,9 +5,10 @@ These problems test algorithmic thinking in the context of ML concepts.
 """
 
 import numpy as np
+import pandas as pd
 from typing import List, Tuple, Optional, Dict
 from collections import defaultdict, deque
-import heapq
+import heapq 
 
 class MLAlgorithmProblems:
     

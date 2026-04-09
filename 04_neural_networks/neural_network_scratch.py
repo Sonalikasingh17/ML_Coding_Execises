@@ -5,7 +5,7 @@ Features:
 - Configurable architecture (hidden layers, neurons)
 - Multiple activation functions (sigmoid, ReLU, tanh)
 - Different optimizers (SGD, Momentum, Adam)
-- Regularization techniques (L2, dropout)
+- Regularization techniques (L2, dropout)      
 """
 
 import numpy as np

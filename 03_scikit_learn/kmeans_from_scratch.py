@@ -28,7 +28,7 @@ class KMeansFromScratch:
         Args:
             X: Input data of shape (n_samples, n_features)
             
-        Returns:
+        Returns: 
             self
         """
         n_samples, n_features = X.shape
@@ -62,7 +62,7 @@ class KMeansFromScratch:
         return self
     
     def predict(self, X: np.ndarray) -> np.ndarray:
-        """Predict cluster labels for new data."""
+        """Predict cluster labels for new data."""  
         distances = self._calculate_distances(X, self.centroids)
         return np.argmin(distances, axis=1)
     
@@ -106,7 +106,7 @@ def test_kmeans_implementation():
     # Test prediction on new data
     new_points = np.array([[0, 0], [1, 1]])
     custom_pred = kmeans_custom.predict(new_points)
-    sklearn_pred = kmeans_sklearn.predict(new_points)
+    sklearn_pred = kmeans_sklearn.predict(new_points) 
     
     print(f"Custom predictions: {custom_pred}")
     print(f"Sklearn predictions: {sklearn_pred}")

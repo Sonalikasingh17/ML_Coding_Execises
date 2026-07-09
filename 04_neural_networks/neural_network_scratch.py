@@ -9,6 +9,7 @@ Features:
 """
 
 import numpy as np
+import pandas as pd
 from typing import List, Callable, Optional, Tuple
 import matplotlib.pyplot as plt
 
